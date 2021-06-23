@@ -2,3 +2,7 @@ design/
 
 .DS_Store
 .prettierignore
+
+*.config
+design/*.jpg
+styles/sass/
