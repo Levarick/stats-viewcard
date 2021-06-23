@@ -1,8 +1,11 @@
-design/
-
-.DS_Store
-.prettierignore
+*.sketch
+*.fig
+*.xd
+/design/
 
 *.config
 design/*.jpg
 styles/sass/
+
+.DS_Store
+.prettierignore
